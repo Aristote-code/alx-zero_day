@@ -16,4 +16,4 @@ bash/school
 I added all the new files to Git and committed my changes with the message "Starting to code today, so cool" before pushing to GitHub.
 
 Task 3: Collaboration is the base of a company
-In this task, I worked with a partner to collaborate on a project. We created a branch named update_script and added a script file named 98. We also added our team's task progress to a README.md file and made sure to push our changes to GitHub.
+In this task, I worked with a partner to collaborate on a project. We created a branch named update_script and added a script file named 98. We also added our team's task progress to a README.md file and made sure to push our changes to GitHub...edited
